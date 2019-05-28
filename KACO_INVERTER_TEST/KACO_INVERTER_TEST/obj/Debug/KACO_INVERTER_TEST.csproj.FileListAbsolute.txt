@@ -1,0 +1,10 @@
+C:\Users\volkan.unal\source\repos\KACO_INVERTER_TEST\KACO_INVERTER_TEST\bin\Debug\KACO_INVERTER_TEST.exe.config
+C:\Users\volkan.unal\source\repos\KACO_INVERTER_TEST\KACO_INVERTER_TEST\bin\Debug\KACO_INVERTER_TEST.exe
+C:\Users\volkan.unal\source\repos\KACO_INVERTER_TEST\KACO_INVERTER_TEST\bin\Debug\KACO_INVERTER_TEST.pdb
+C:\Users\volkan.unal\source\repos\KACO_INVERTER_TEST\KACO_INVERTER_TEST\obj\Debug\KACO_INVERTER_TEST.csprojAssemblyReference.cache
+C:\Users\volkan.unal\source\repos\KACO_INVERTER_TEST\KACO_INVERTER_TEST\obj\Debug\KACO_INVERTER_TEST.Form1.resources
+C:\Users\volkan.unal\source\repos\KACO_INVERTER_TEST\KACO_INVERTER_TEST\obj\Debug\KACO_INVERTER_TEST.Properties.Resources.resources
+C:\Users\volkan.unal\source\repos\KACO_INVERTER_TEST\KACO_INVERTER_TEST\obj\Debug\KACO_INVERTER_TEST.csproj.GenerateResource.cache
+C:\Users\volkan.unal\source\repos\KACO_INVERTER_TEST\KACO_INVERTER_TEST\obj\Debug\KACO_INVERTER_TEST.csproj.CoreCompileInputs.cache
+C:\Users\volkan.unal\source\repos\KACO_INVERTER_TEST\KACO_INVERTER_TEST\obj\Debug\KACO_INVERTER_TEST.exe
+C:\Users\volkan.unal\source\repos\KACO_INVERTER_TEST\KACO_INVERTER_TEST\obj\Debug\KACO_INVERTER_TEST.pdb
