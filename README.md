@@ -7,6 +7,8 @@ Another is that you can test your code through this program.
 
 - If you want to use the program for testing purposes, activate the start simulate. The program will start printing fake data in the correct format, according to the incoming query request.
 
+- Creates a file named LogFile.txt in the file path where the program is running. Incoming data is logged in this file.
+
 
     ![Screen1](Screen1.JPG)
 
